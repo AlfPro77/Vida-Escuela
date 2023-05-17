@@ -1,0 +1,30 @@
+.travel_minediv{
+    border:1px solid rgb(162, 218, 228);
+}
+.travel_minediv img{
+    width:100%;
+}
+.travel_minediv h5, .travel_minediv p{
+    margin:20px;
+}
+body{
+    background-color:rgb(238, 215, 141)
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.texto_pelicula span{
+    color: rgb(238, 177, 64);
+}
+#DiarioGreg{
+    height: 567px;
+}
+#avatar{
+    width: 20%;
+}
